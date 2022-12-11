@@ -1,0 +1,11 @@
+@import url('shorturl.at/qrKYZ');
+body{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    height: 100vh;
+    background: url(shorturl.at/nqGV0);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
